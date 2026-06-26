@@ -9,6 +9,7 @@ I'm a **Data Science & Analytics** enthusiast. I enjoy extracting insights from 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakaar-gusain-545241252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://sakaar-gusain-portfolio.vercel.app/)
 
 ---
 
